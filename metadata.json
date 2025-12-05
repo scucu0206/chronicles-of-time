@@ -1,0 +1,8 @@
+{
+  "name": "chronicles-of-time",
+  "description": "A 3D interactive particle system controlled by gestures and voice sentiment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
